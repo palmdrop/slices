@@ -1,0 +1,3356 @@
+[
+  {
+    "file": "src/assets/images/animal.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1073,
+          "hex": "#16110D",
+          "srgb": {
+            "r": 22,
+            "g": 1,
+            "b": 3
+          }
+        },
+        {
+          "count": 1063,
+          "hex": "#3A372E",
+          "srgb": {
+            "r": 58,
+            "g": 4,
+            "b": 6
+          }
+        },
+        {
+          "count": 1046,
+          "hex": "#39362F",
+          "srgb": {
+            "r": 57,
+            "g": 4,
+            "b": 7
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 39.5,
+        "g": 2.6000000000000005,
+        "b": 3.8000000000000003
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/blur1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1211,
+          "hex": "#161813",
+          "srgb": {
+            "r": 22,
+            "g": 1,
+            "b": 9
+          }
+        },
+        {
+          "count": 1110,
+          "hex": "#151712",
+          "srgb": {
+            "r": 21,
+            "g": 1,
+            "b": 8
+          }
+        },
+        {
+          "count": 1076,
+          "hex": "#181A15",
+          "srgb": {
+            "r": 24,
+            "g": 2,
+            "b": 1
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 23,
+        "g": 1.5999999999999999,
+        "b": 3.7000000000000006
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/blur2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 103500,
+          "hex": "#050507",
+          "srgb": {
+            "r": 5,
+            "g": 5,
+            "b": 7
+          }
+        },
+        {
+          "count": 23250,
+          "hex": "#060608",
+          "srgb": {
+            "r": 6,
+            "g": 6,
+            "b": 8
+          }
+        },
+        {
+          "count": 22774,
+          "hex": "#040406",
+          "srgb": {
+            "r": 4,
+            "g": 4,
+            "b": 6
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 4.9,
+        "g": 5.3999999999999995,
+        "b": 6.699999999999999
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/blur3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 3115,
+          "hex": "#020202",
+          "srgb": {
+            "r": 2,
+            "g": 2,
+            "b": 2
+          }
+        },
+        {
+          "count": 2381,
+          "hex": "#030303",
+          "srgb": {
+            "r": 3,
+            "g": 3,
+            "b": 3
+          }
+        },
+        {
+          "count": 2151,
+          "hex": "#0C0D08",
+          "srgb": {
+            "r": 12,
+            "g": 3,
+            "b": 8
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 8.3,
+        "g": 3.8000000000000003,
+        "b": 4.8999999999999995
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/build1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 86254,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 21187,
+          "hex": "#010101",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 5936,
+          "hex": "#010100",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 0.9,
+        "g": 1.7000000000000002,
+        "b": 0.1
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/building.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 107965,
+          "hex": "#090708",
+          "srgb": {
+            "r": 9,
+            "g": 7,
+            "b": 8
+          }
+        },
+        {
+          "count": 98323,
+          "hex": "#080607",
+          "srgb": {
+            "r": 8,
+            "g": 6,
+            "b": 7
+          }
+        },
+        {
+          "count": 93115,
+          "hex": "#070707",
+          "srgb": {
+            "r": 7,
+            "g": 7,
+            "b": 7
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 9.8,
+        "g": 6.1,
+        "b": 6.9
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/bush1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1317,
+          "hex": "#050505",
+          "srgb": {
+            "r": 5,
+            "g": 5,
+            "b": 5
+          }
+        },
+        {
+          "count": 1020,
+          "hex": "#050507",
+          "srgb": {
+            "r": 5,
+            "g": 5,
+            "b": 7
+          }
+        },
+        {
+          "count": 901,
+          "hex": "#050503",
+          "srgb": {
+            "r": 5,
+            "g": 5,
+            "b": 3
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 4.9,
+        "g": 5.199999999999999,
+        "b": 4.2
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/bush2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 15325,
+          "hex": "#010101",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 10680,
+          "hex": "#020200",
+          "srgb": {
+            "r": 2,
+            "g": 2,
+            "b": 0
+          }
+        },
+        {
+          "count": 9345,
+          "hex": "#020202",
+          "srgb": {
+            "r": 2,
+            "g": 2,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 2.4,
+        "g": 2.8,
+        "b": 0.8999999999999999
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/bush3.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 17837,
+          "hex": "#0D0B0C",
+          "srgb": {
+            "r": 13,
+            "g": 1,
+            "b": 2
+          }
+        },
+        {
+          "count": 17343,
+          "hex": "#0C0A0B",
+          "srgb": {
+            "r": 12,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 14304,
+          "hex": "#0E0C0D",
+          "srgb": {
+            "r": 14,
+            "g": 1,
+            "b": 3
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 13.5,
+        "g": 0.9999999999999999,
+        "b": 2.5
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/canopy1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 61764,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 7791,
+          "hex": "#000100",
+          "srgb": {
+            "r": 0,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 5668,
+          "hex": "#000002",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 6.7,
+        "g": 3,
+        "b": 1.0999999999999999
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/canopy2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 85128,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 27121,
+          "hex": "#000100",
+          "srgb": {
+            "r": 0,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 19927,
+          "hex": "#010000",
+          "srgb": {
+            "r": 1,
+            "g": 0,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 0.8,
+        "g": 0.8999999999999999,
+        "b": 0.30000000000000004
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/canopy3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 7706,
+          "hex": "#010100",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 5746,
+          "hex": "#010101",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 3312,
+          "hex": "#000200",
+          "srgb": {
+            "r": 0,
+            "g": 2,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 0.8999999999999999,
+        "g": 1.6,
+        "b": 0.1
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/canopy4.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 17340,
+          "hex": "#010100",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 9799,
+          "hex": "#020100",
+          "srgb": {
+            "r": 2,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 8529,
+          "hex": "#010000",
+          "srgb": {
+            "r": 1,
+            "g": 0,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 1.3,
+        "g": 1.3,
+        "b": 0.1
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/cig1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 261,
+          "hex": "#2D313C",
+          "srgb": {
+            "r": 45,
+            "g": 6,
+            "b": 0
+          }
+        },
+        {
+          "count": 260,
+          "hex": "#333743",
+          "srgb": {
+            "r": 51,
+            "g": 6,
+            "b": 7
+          }
+        },
+        {
+          "count": 258,
+          "hex": "#2E323E",
+          "srgb": {
+            "r": 46,
+            "g": 6,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 48.3,
+        "g": 6.1,
+        "b": 2.9000000000000004
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/cig2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 185,
+          "hex": "#2E2D33",
+          "srgb": {
+            "r": 46,
+            "g": 5,
+            "b": 1
+          }
+        },
+        {
+          "count": 183,
+          "hex": "#2C2B31",
+          "srgb": {
+            "r": 44,
+            "g": 4,
+            "b": 9
+          }
+        },
+        {
+          "count": 181,
+          "hex": "#26252B",
+          "srgb": {
+            "r": 38,
+            "g": 4,
+            "b": 3
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 39.800000000000004,
+        "g": 4.1,
+        "b": 5.3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/cloud1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 15048,
+          "hex": "#24201F",
+          "srgb": {
+            "r": 36,
+            "g": 3,
+            "b": 1
+          }
+        },
+        {
+          "count": 13294,
+          "hex": "#231F1E",
+          "srgb": {
+            "r": 35,
+            "g": 3,
+            "b": 0
+          }
+        },
+        {
+          "count": 13264,
+          "hex": "#252120",
+          "srgb": {
+            "r": 37,
+            "g": 3,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 36.7,
+        "g": 2.9,
+        "b": 3.3000000000000003
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/cloud2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 342,
+          "hex": "#BEAFB2",
+          "srgb": {
+            "r": 190,
+            "g": 7,
+            "b": 8
+          }
+        },
+        {
+          "count": 329,
+          "hex": "#C4B6B6",
+          "srgb": {
+            "r": 196,
+            "g": 8,
+            "b": 2
+          }
+        },
+        {
+          "count": 326,
+          "hex": "#B8ACB0",
+          "srgb": {
+            "r": 184,
+            "g": 7,
+            "b": 6
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 191.29999999999998,
+        "g": 7.6,
+        "b": 4.2
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/cloud3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 5396,
+          "hex": "#585252",
+          "srgb": {
+            "r": 88,
+            "g": 8,
+            "b": 2
+          }
+        },
+        {
+          "count": 4909,
+          "hex": "#575151",
+          "srgb": {
+            "r": 87,
+            "g": 8,
+            "b": 1
+          }
+        },
+        {
+          "count": 4770,
+          "hex": "#595353",
+          "srgb": {
+            "r": 89,
+            "g": 8,
+            "b": 3
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 89.7,
+        "g": 7.999999999999999,
+        "b": 3.1
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/cloud4.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 2177,
+          "hex": "#99A2A1",
+          "srgb": {
+            "r": 153,
+            "g": 6,
+            "b": 1
+          }
+        },
+        {
+          "count": 1982,
+          "hex": "#9AA3A2",
+          "srgb": {
+            "r": 154,
+            "g": 6,
+            "b": 2
+          }
+        },
+        {
+          "count": 1965,
+          "hex": "#97A1A2",
+          "srgb": {
+            "r": 151,
+            "g": 6,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 152.70000000000002,
+        "g": 5.999999999999999,
+        "b": 2.0000000000000004
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/concrete.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 7538,
+          "hex": "#262521",
+          "srgb": {
+            "r": 38,
+            "g": 3,
+            "b": 3
+          }
+        },
+        {
+          "count": 7458,
+          "hex": "#252420",
+          "srgb": {
+            "r": 37,
+            "g": 3,
+            "b": 2
+          }
+        },
+        {
+          "count": 7430,
+          "hex": "#282723",
+          "srgb": {
+            "r": 40,
+            "g": 3,
+            "b": 5
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 39.5,
+        "g": 2.9999999999999996,
+        "b": 4.5
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/crouch1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 25806,
+          "hex": "#080A05",
+          "srgb": {
+            "r": 8,
+            "g": 0,
+            "b": 5
+          }
+        },
+        {
+          "count": 24206,
+          "hex": "#090B06",
+          "srgb": {
+            "r": 9,
+            "g": 1,
+            "b": 6
+          }
+        },
+        {
+          "count": 15105,
+          "hex": "#070904",
+          "srgb": {
+            "r": 7,
+            "g": 9,
+            "b": 4
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 9.100000000000001,
+        "g": 2.8000000000000003,
+        "b": 6.1
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/flower1.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 57076,
+          "hex": "#201209",
+          "srgb": {
+            "r": 32,
+            "g": 8,
+            "b": 9
+          }
+        },
+        {
+          "count": 37273,
+          "hex": "#1F1108",
+          "srgb": {
+            "r": 31,
+            "g": 7,
+            "b": 8
+          }
+        },
+        {
+          "count": 34272,
+          "hex": "#21130A",
+          "srgb": {
+            "r": 33,
+            "g": 1,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 28.700000000000006,
+        "g": 5.3,
+        "b": 5.3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/flower2.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 36597,
+          "hex": "#211006",
+          "srgb": {
+            "r": 33,
+            "g": 6,
+            "b": 6
+          }
+        },
+        {
+          "count": 31907,
+          "hex": "#090806",
+          "srgb": {
+            "r": 9,
+            "g": 8,
+            "b": 6
+          }
+        },
+        {
+          "count": 28246,
+          "hex": "#1F1108",
+          "srgb": {
+            "r": 31,
+            "g": 7,
+            "b": 8
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 27.1,
+        "g": 6.499999999999999,
+        "b": 6.3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/flower3.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 33271,
+          "hex": "#070705",
+          "srgb": {
+            "r": 7,
+            "g": 7,
+            "b": 5
+          }
+        },
+        {
+          "count": 29319,
+          "hex": "#070707",
+          "srgb": {
+            "r": 7,
+            "g": 7,
+            "b": 7
+          }
+        },
+        {
+          "count": 27547,
+          "hex": "#090806",
+          "srgb": {
+            "r": 9,
+            "g": 8,
+            "b": 6
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 12.100000000000001,
+        "g": 5.6000000000000005,
+        "b": 4.9
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/flower4.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 215015,
+          "hex": "#070707",
+          "srgb": {
+            "r": 7,
+            "g": 7,
+            "b": 7
+          }
+        },
+        {
+          "count": 65016,
+          "hex": "#060606",
+          "srgb": {
+            "r": 6,
+            "g": 6,
+            "b": 6
+          }
+        },
+        {
+          "count": 58141,
+          "hex": "#080607",
+          "srgb": {
+            "r": 8,
+            "g": 6,
+            "b": 7
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 8.700000000000001,
+        "g": 7.3,
+        "b": 6.3999999999999995
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/flowers1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 454463,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 11606,
+          "hex": "#000400",
+          "srgb": {
+            "r": 0,
+            "g": 4,
+            "b": 0
+          }
+        },
+        {
+          "count": 11546,
+          "hex": "#000200",
+          "srgb": {
+            "r": 0,
+            "g": 2,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 0.1,
+        "g": 4,
+        "b": 0
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/flowers2.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1050,
+          "hex": "#100C09",
+          "srgb": {
+            "r": 16,
+            "g": 2,
+            "b": 9
+          }
+        },
+        {
+          "count": 1021,
+          "hex": "#110D0A",
+          "srgb": {
+            "r": 17,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 1012,
+          "hex": "#120F0A",
+          "srgb": {
+            "r": 18,
+            "g": 1,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 18.599999999999998,
+        "g": 1.9000000000000004,
+        "b": 3.6
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/flowers3.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 20105,
+          "hex": "#8A8474",
+          "srgb": {
+            "r": 138,
+            "g": 1,
+            "b": 6
+          }
+        },
+        {
+          "count": 19582,
+          "hex": "#8B8575",
+          "srgb": {
+            "r": 139,
+            "g": 1,
+            "b": 7
+          }
+        },
+        {
+          "count": 16270,
+          "hex": "#898373",
+          "srgb": {
+            "r": 137,
+            "g": 1,
+            "b": 5
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 138.7,
+        "g": 0.9999999999999999,
+        "b": 6.4
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/ghost1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 49845,
+          "hex": "#070709",
+          "srgb": {
+            "r": 7,
+            "g": 7,
+            "b": 9
+          }
+        },
+        {
+          "count": 36812,
+          "hex": "#08080A",
+          "srgb": {
+            "r": 8,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 34119,
+          "hex": "#070707",
+          "srgb": {
+            "r": 7,
+            "g": 7,
+            "b": 7
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 7.6000000000000005,
+        "g": 5.7,
+        "b": 6.400000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/ghost2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 11320,
+          "hex": "#080808",
+          "srgb": {
+            "r": 8,
+            "g": 8,
+            "b": 8
+          }
+        },
+        {
+          "count": 10490,
+          "hex": "#090909",
+          "srgb": {
+            "r": 9,
+            "g": 9,
+            "b": 9
+          }
+        },
+        {
+          "count": 10337,
+          "hex": "#070707",
+          "srgb": {
+            "r": 7,
+            "g": 7,
+            "b": 7
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 8.2,
+        "g": 6,
+        "b": 6.300000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/ghost3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 2066,
+          "hex": "#0B0D1C",
+          "srgb": {
+            "r": 11,
+            "g": 2,
+            "b": 8
+          }
+        },
+        {
+          "count": 2060,
+          "hex": "#090B1A",
+          "srgb": {
+            "r": 9,
+            "g": 2,
+            "b": 6
+          }
+        },
+        {
+          "count": 2036,
+          "hex": "#0C0E1D",
+          "srgb": {
+            "r": 12,
+            "g": 2,
+            "b": 9
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 10.5,
+        "g": 2.3000000000000003,
+        "b": 5.3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/ghost4.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 2869,
+          "hex": "#09070A",
+          "srgb": {
+            "r": 9,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 2697,
+          "hex": "#0A080B",
+          "srgb": {
+            "r": 10,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 2520,
+          "hex": "#0A0809",
+          "srgb": {
+            "r": 10,
+            "g": 8,
+            "b": 9
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 9.300000000000002,
+        "g": 4.299999999999999,
+        "b": 4.6
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/ghost5.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 2738,
+          "hex": "#09070A",
+          "srgb": {
+            "r": 9,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 2645,
+          "hex": "#0A080B",
+          "srgb": {
+            "r": 10,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 2599,
+          "hex": "#080609",
+          "srgb": {
+            "r": 8,
+            "g": 6,
+            "b": 9
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 9.5,
+        "g": 3.7000000000000006,
+        "b": 4.7
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/ghost6.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 2483,
+          "hex": "#101710",
+          "srgb": {
+            "r": 16,
+            "g": 1,
+            "b": 6
+          }
+        },
+        {
+          "count": 2444,
+          "hex": "#121912",
+          "srgb": {
+            "r": 18,
+            "g": 1,
+            "b": 8
+          }
+        },
+        {
+          "count": 2434,
+          "hex": "#111811",
+          "srgb": {
+            "r": 17,
+            "g": 1,
+            "b": 7
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 16,
+        "g": 0.9999999999999999,
+        "b": 6.6
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/ghost7.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 35867,
+          "hex": "#040605",
+          "srgb": {
+            "r": 4,
+            "g": 6,
+            "b": 5
+          }
+        },
+        {
+          "count": 32994,
+          "hex": "#050706",
+          "srgb": {
+            "r": 5,
+            "g": 7,
+            "b": 6
+          }
+        },
+        {
+          "count": 22752,
+          "hex": "#040507",
+          "srgb": {
+            "r": 4,
+            "g": 5,
+            "b": 7
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 5,
+        "g": 5.800000000000001,
+        "b": 6
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/ghost8.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 7093,
+          "hex": "#080D09",
+          "srgb": {
+            "r": 8,
+            "g": 3,
+            "b": 9
+          }
+        },
+        {
+          "count": 7083,
+          "hex": "#070C08",
+          "srgb": {
+            "r": 7,
+            "g": 2,
+            "b": 8
+          }
+        },
+        {
+          "count": 6507,
+          "hex": "#090E0A",
+          "srgb": {
+            "r": 9,
+            "g": 1,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 7.8,
+        "g": 1.4,
+        "b": 4.200000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/ghost9.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 14260,
+          "hex": "#040700",
+          "srgb": {
+            "r": 4,
+            "g": 7,
+            "b": 0
+          }
+        },
+        {
+          "count": 13689,
+          "hex": "#050801",
+          "srgb": {
+            "r": 5,
+            "g": 8,
+            "b": 1
+          }
+        },
+        {
+          "count": 13264,
+          "hex": "#060902",
+          "srgb": {
+            "r": 6,
+            "g": 9,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 4.300000000000001,
+        "g": 5.4,
+        "b": 1.2000000000000002
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/globe.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 10944,
+          "hex": "#1F1F17",
+          "srgb": {
+            "r": 31,
+            "g": 2,
+            "b": 3
+          }
+        },
+        {
+          "count": 10390,
+          "hex": "#1E1E16",
+          "srgb": {
+            "r": 30,
+            "g": 2,
+            "b": 2
+          }
+        },
+        {
+          "count": 10378,
+          "hex": "#202018",
+          "srgb": {
+            "r": 32,
+            "g": 2,
+            "b": 4
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 30.900000000000002,
+        "g": 1.9999999999999998,
+        "b": 2.1
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/grain1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 83,
+          "hex": "#A2A3A5",
+          "srgb": {
+            "r": 162,
+            "g": 6,
+            "b": 5
+          }
+        },
+        {
+          "count": 81,
+          "hex": "#A1A9AC",
+          "srgb": {
+            "r": 161,
+            "g": 7,
+            "b": 2
+          }
+        },
+        {
+          "count": 80,
+          "hex": "#9EA6A8",
+          "srgb": {
+            "r": 158,
+            "g": 6,
+            "b": 8
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 157.99999999999997,
+        "g": 6.199999999999999,
+        "b": 4.9
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/grain2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 380,
+          "hex": "#000500",
+          "srgb": {
+            "r": 0,
+            "g": 5,
+            "b": 0
+          }
+        },
+        {
+          "count": 369,
+          "hex": "#000400",
+          "srgb": {
+            "r": 0,
+            "g": 4,
+            "b": 0
+          }
+        },
+        {
+          "count": 367,
+          "hex": "#000200",
+          "srgb": {
+            "r": 0,
+            "g": 2,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 1.2000000000000002,
+        "g": 3.6,
+        "b": 0
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/grain3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 740,
+          "hex": "#000100",
+          "srgb": {
+            "r": 0,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 732,
+          "hex": "#040000",
+          "srgb": {
+            "r": 4,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 705,
+          "hex": "#000200",
+          "srgb": {
+            "r": 0,
+            "g": 2,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 2.9,
+        "g": 1,
+        "b": 0
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/grain4.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 273,
+          "hex": "#040000",
+          "srgb": {
+            "r": 4,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 240,
+          "hex": "#060000",
+          "srgb": {
+            "r": 6,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 233,
+          "hex": "#080000",
+          "srgb": {
+            "r": 8,
+            "g": 0,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 4.9,
+        "g": 0.4,
+        "b": 0.1
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/grass.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 8456,
+          "hex": "#2A271E",
+          "srgb": {
+            "r": 42,
+            "g": 3,
+            "b": 0
+          }
+        },
+        {
+          "count": 8385,
+          "hex": "#29261D",
+          "srgb": {
+            "r": 41,
+            "g": 2,
+            "b": 9
+          }
+        },
+        {
+          "count": 7977,
+          "hex": "#28251C",
+          "srgb": {
+            "r": 40,
+            "g": 2,
+            "b": 8
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 41.5,
+        "g": 2.5,
+        "b": 4.5
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/grass2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1492,
+          "hex": "#5F5343",
+          "srgb": {
+            "r": 95,
+            "g": 6,
+            "b": 7
+          }
+        },
+        {
+          "count": 1449,
+          "hex": "#5E5242",
+          "srgb": {
+            "r": 94,
+            "g": 6,
+            "b": 6
+          }
+        },
+        {
+          "count": 1440,
+          "hex": "#605444",
+          "srgb": {
+            "r": 96,
+            "g": 6,
+            "b": 8
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 93.6,
+        "g": 6.099999999999999,
+        "b": 6.000000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/grass3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 2318,
+          "hex": "#28281E",
+          "srgb": {
+            "r": 40,
+            "g": 3,
+            "b": 0
+          }
+        },
+        {
+          "count": 2218,
+          "hex": "#29291F",
+          "srgb": {
+            "r": 41,
+            "g": 3,
+            "b": 1
+          }
+        },
+        {
+          "count": 2190,
+          "hex": "#27271D",
+          "srgb": {
+            "r": 39,
+            "g": 2,
+            "b": 9
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 39.1,
+        "g": 2.6,
+        "b": 3.9000000000000004
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/grass4.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 2181,
+          "hex": "#949657",
+          "srgb": {
+            "r": 148,
+            "g": 8,
+            "b": 7
+          }
+        },
+        {
+          "count": 2072,
+          "hex": "#959758",
+          "srgb": {
+            "r": 149,
+            "g": 8,
+            "b": 8
+          }
+        },
+        {
+          "count": 1879,
+          "hex": "#939556",
+          "srgb": {
+            "r": 147,
+            "g": 8,
+            "b": 6
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 148.3,
+        "g": 8.1,
+        "b": 5.7
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/leaves.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 211,
+          "hex": "#12130E",
+          "srgb": {
+            "r": 18,
+            "g": 1,
+            "b": 4
+          }
+        },
+        {
+          "count": 186,
+          "hex": "#13140F",
+          "srgb": {
+            "r": 19,
+            "g": 1,
+            "b": 5
+          }
+        },
+        {
+          "count": 170,
+          "hex": "#141510",
+          "srgb": {
+            "r": 20,
+            "g": 1,
+            "b": 6
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 18.900000000000002,
+        "g": 0.9999999999999999,
+        "b": 4.5
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/plant.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 12867,
+          "hex": "#10100E",
+          "srgb": {
+            "r": 16,
+            "g": 1,
+            "b": 4
+          }
+        },
+        {
+          "count": 12361,
+          "hex": "#11110F",
+          "srgb": {
+            "r": 17,
+            "g": 1,
+            "b": 5
+          }
+        },
+        {
+          "count": 11547,
+          "hex": "#0F0F0D",
+          "srgb": {
+            "r": 15,
+            "g": 1,
+            "b": 3
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 19.7,
+        "g": 1.2,
+        "b": 4.8999999999999995
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/pond1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 88036,
+          "hex": "#0D0D0D",
+          "srgb": {
+            "r": 13,
+            "g": 1,
+            "b": 3
+          }
+        },
+        {
+          "count": 80791,
+          "hex": "#0C0C0C",
+          "srgb": {
+            "r": 12,
+            "g": 1,
+            "b": 2
+          }
+        },
+        {
+          "count": 49071,
+          "hex": "#0E0E0E",
+          "srgb": {
+            "r": 14,
+            "g": 1,
+            "b": 4
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 13.700000000000001,
+        "g": 0.9999999999999999,
+        "b": 2.8
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/pond2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 115118,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 8561,
+          "hex": "#000100",
+          "srgb": {
+            "r": 0,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 7370,
+          "hex": "#000002",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 0.4,
+        "g": 0.7999999999999999,
+        "b": 0.9000000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/pond3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 60333,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 10042,
+          "hex": "#000100",
+          "srgb": {
+            "r": 0,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 6206,
+          "hex": "#000002",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 0.4,
+        "g": 1.2000000000000002,
+        "b": 0.5
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/pond4.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 7764,
+          "hex": "#080808",
+          "srgb": {
+            "r": 8,
+            "g": 8,
+            "b": 8
+          }
+        },
+        {
+          "count": 3555,
+          "hex": "#090909",
+          "srgb": {
+            "r": 9,
+            "g": 9,
+            "b": 9
+          }
+        },
+        {
+          "count": 2396,
+          "hex": "#212610",
+          "srgb": {
+            "r": 33,
+            "g": 1,
+            "b": 6
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 27.200000000000003,
+        "g": 2.500000000000001,
+        "b": 6.3999999999999995
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/pond5.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 2949,
+          "hex": "#1F2710",
+          "srgb": {
+            "r": 31,
+            "g": 1,
+            "b": 6
+          }
+        },
+        {
+          "count": 2933,
+          "hex": "#202811",
+          "srgb": {
+            "r": 32,
+            "g": 1,
+            "b": 7
+          }
+        },
+        {
+          "count": 2767,
+          "hex": "#212912",
+          "srgb": {
+            "r": 33,
+            "g": 1,
+            "b": 8
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 31.999999999999996,
+        "g": 0.9999999999999999,
+        "b": 6.3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/rocks.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 32149,
+          "hex": "#181818",
+          "srgb": {
+            "r": 24,
+            "g": 2,
+            "b": 4
+          }
+        },
+        {
+          "count": 31792,
+          "hex": "#191919",
+          "srgb": {
+            "r": 25,
+            "g": 2,
+            "b": 5
+          }
+        },
+        {
+          "count": 27974,
+          "hex": "#1A1A1A",
+          "srgb": {
+            "r": 26,
+            "g": 2,
+            "b": 6
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 25.5,
+        "g": 2.1,
+        "b": 4.5
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/roses1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 54434,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 10834,
+          "hex": "#000100",
+          "srgb": {
+            "r": 0,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 6557,
+          "hex": "#000002",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 0.6000000000000001,
+        "g": 0.7,
+        "b": 0.9000000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/roses2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 337729,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 22958,
+          "hex": "#010101",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 7217,
+          "hex": "#010100",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 2.9000000000000004,
+        "g": 3.5000000000000004,
+        "b": 0.4
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/roses3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 14055,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 5124,
+          "hex": "#010101",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 4086,
+          "hex": "#0C0000",
+          "srgb": {
+            "r": 12,
+            "g": 0,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 8.3,
+        "g": 0.2,
+        "b": 0.7000000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/skeleton1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 61184,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 51981,
+          "hex": "#010101",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 28294,
+          "hex": "#020001",
+          "srgb": {
+            "r": 2,
+            "g": 0,
+            "b": 1
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 1.9000000000000001,
+        "g": 1.2000000000000002,
+        "b": 0.7000000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/skeleton2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 64129,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 34233,
+          "hex": "#010101",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 25190,
+          "hex": "#010000",
+          "srgb": {
+            "r": 1,
+            "g": 0,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 1.4999999999999998,
+        "g": 0.9,
+        "b": 0.6000000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/sky.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 19363,
+          "hex": "#262630",
+          "srgb": {
+            "r": 38,
+            "g": 4,
+            "b": 8
+          }
+        },
+        {
+          "count": 18950,
+          "hex": "#25252F",
+          "srgb": {
+            "r": 37,
+            "g": 4,
+            "b": 7
+          }
+        },
+        {
+          "count": 17176,
+          "hex": "#272731",
+          "srgb": {
+            "r": 39,
+            "g": 4,
+            "b": 9
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 38.6,
+        "g": 4.1,
+        "b": 6.199999999999999
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/sky1.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 23485,
+          "hex": "#27272F",
+          "srgb": {
+            "r": 39,
+            "g": 4,
+            "b": 7
+          }
+        },
+        {
+          "count": 22150,
+          "hex": "#26262E",
+          "srgb": {
+            "r": 38,
+            "g": 4,
+            "b": 6
+          }
+        },
+        {
+          "count": 21959,
+          "hex": "#282830",
+          "srgb": {
+            "r": 40,
+            "g": 4,
+            "b": 8
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 40,
+        "g": 3.9999999999999996,
+        "b": 6.8
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/sky2.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 20829,
+          "hex": "#23232D",
+          "srgb": {
+            "r": 35,
+            "g": 4,
+            "b": 5
+          }
+        },
+        {
+          "count": 20286,
+          "hex": "#24242E",
+          "srgb": {
+            "r": 36,
+            "g": 4,
+            "b": 6
+          }
+        },
+        {
+          "count": 18839,
+          "hex": "#22222C",
+          "srgb": {
+            "r": 34,
+            "g": 4,
+            "b": 4
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 33.9,
+        "g": 3.9999999999999996,
+        "b": 5.5
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/smoke1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 27551,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 20801,
+          "hex": "#020202",
+          "srgb": {
+            "r": 2,
+            "g": 2,
+            "b": 2
+          }
+        },
+        {
+          "count": 19497,
+          "hex": "#010101",
+          "srgb": {
+            "r": 1,
+            "g": 1,
+            "b": 1
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 3.3,
+        "g": 3.3,
+        "b": 2.5
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/smoke2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 6987,
+          "hex": "#000000",
+          "srgb": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+          }
+        },
+        {
+          "count": 6048,
+          "hex": "#020202",
+          "srgb": {
+            "r": 2,
+            "g": 2,
+            "b": 2
+          }
+        },
+        {
+          "count": 5948,
+          "hex": "#030303",
+          "srgb": {
+            "r": 3,
+            "g": 3,
+            "b": 3
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 2.3000000000000003,
+        "g": 2.1,
+        "b": 1.3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/spray1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 51410,
+          "hex": "#070707",
+          "srgb": {
+            "r": 7,
+            "g": 7,
+            "b": 7
+          }
+        },
+        {
+          "count": 44000,
+          "hex": "#060606",
+          "srgb": {
+            "r": 6,
+            "g": 6,
+            "b": 6
+          }
+        },
+        {
+          "count": 28737,
+          "hex": "#070705",
+          "srgb": {
+            "r": 7,
+            "g": 7,
+            "b": 5
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 7.9,
+        "g": 5.299999999999999,
+        "b": 5.8
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/star1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 439,
+          "hex": "#00163F",
+          "srgb": {
+            "r": 0,
+            "g": 6,
+            "b": 3
+          }
+        },
+        {
+          "count": 426,
+          "hex": "#001743",
+          "srgb": {
+            "r": 0,
+            "g": 6,
+            "b": 7
+          }
+        },
+        {
+          "count": 415,
+          "hex": "#001443",
+          "srgb": {
+            "r": 0,
+            "g": 6,
+            "b": 7
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 0,
+        "g": 5.999999999999999,
+        "b": 4.2
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/star2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 583,
+          "hex": "#19223F",
+          "srgb": {
+            "r": 25,
+            "g": 6,
+            "b": 3
+          }
+        },
+        {
+          "count": 580,
+          "hex": "#1A2340",
+          "srgb": {
+            "r": 26,
+            "g": 6,
+            "b": 4
+          }
+        },
+        {
+          "count": 570,
+          "hex": "#17203D",
+          "srgb": {
+            "r": 23,
+            "g": 6,
+            "b": 1
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 23.5,
+        "g": 5.799999999999999,
+        "b": 3.6000000000000005
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/star3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1117,
+          "hex": "#000100",
+          "srgb": {
+            "r": 0,
+            "g": 1,
+            "b": 0
+          }
+        },
+        {
+          "count": 992,
+          "hex": "#110F10",
+          "srgb": {
+            "r": 17,
+            "g": 1,
+            "b": 6
+          }
+        },
+        {
+          "count": 984,
+          "hex": "#0F0F0F",
+          "srgb": {
+            "r": 15,
+            "g": 1,
+            "b": 5
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 13.3,
+        "g": 0.9999999999999999,
+        "b": 4.6
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/tree1.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1551,
+          "hex": "#17161B",
+          "srgb": {
+            "r": 23,
+            "g": 2,
+            "b": 7
+          }
+        },
+        {
+          "count": 1518,
+          "hex": "#171719",
+          "srgb": {
+            "r": 23,
+            "g": 2,
+            "b": 5
+          }
+        },
+        {
+          "count": 1513,
+          "hex": "#18171C",
+          "srgb": {
+            "r": 24,
+            "g": 2,
+            "b": 8
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 23.8,
+        "g": 1.9999999999999998,
+        "b": 6.400000000000001
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/tree2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 373,
+          "hex": "#1A191E",
+          "srgb": {
+            "r": 26,
+            "g": 3,
+            "b": 0
+          }
+        },
+        {
+          "count": 361,
+          "hex": "#18171C",
+          "srgb": {
+            "r": 24,
+            "g": 2,
+            "b": 8
+          }
+        },
+        {
+          "count": 359,
+          "hex": "#1B1A1F",
+          "srgb": {
+            "r": 27,
+            "g": 3,
+            "b": 1
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 24.799999999999997,
+        "g": 2.4999999999999996,
+        "b": 4.3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/vegblur.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 208,
+          "hex": "#5B4B00",
+          "srgb": {
+            "r": 91,
+            "g": 5,
+            "b": 0
+          }
+        },
+        {
+          "count": 198,
+          "hex": "#564500",
+          "srgb": {
+            "r": 86,
+            "g": 9,
+            "b": 0
+          }
+        },
+        {
+          "count": 192,
+          "hex": "#655500",
+          "srgb": {
+            "r": 101,
+            "g": 5,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 90.3,
+        "g": 4.599999999999999,
+        "b": 0
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/vegblur2.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1132,
+          "hex": "#120C00",
+          "srgb": {
+            "r": 18,
+            "g": 2,
+            "b": 0
+          }
+        },
+        {
+          "count": 1040,
+          "hex": "#171000",
+          "srgb": {
+            "r": 23,
+            "g": 6,
+            "b": 0
+          }
+        },
+        {
+          "count": 1021,
+          "hex": "#0D0900",
+          "srgb": {
+            "r": 13,
+            "g": 9,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 19.3,
+        "g": 5.300000000000001,
+        "b": 0
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/vegblur3.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 339,
+          "hex": "#453B00",
+          "srgb": {
+            "r": 69,
+            "g": 9,
+            "b": 0
+          }
+        },
+        {
+          "count": 333,
+          "hex": "#3B3400",
+          "srgb": {
+            "r": 59,
+            "g": 2,
+            "b": 0
+          }
+        },
+        {
+          "count": 309,
+          "hex": "#403700",
+          "srgb": {
+            "r": 64,
+            "g": 5,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 47.900000000000006,
+        "g": 4.4,
+        "b": 0
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/vegblur4.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 2033,
+          "hex": "#0F0800",
+          "srgb": {
+            "r": 15,
+            "g": 8,
+            "b": 0
+          }
+        },
+        {
+          "count": 2013,
+          "hex": "#0D0900",
+          "srgb": {
+            "r": 13,
+            "g": 9,
+            "b": 0
+          }
+        },
+        {
+          "count": 1861,
+          "hex": "#120C00",
+          "srgb": {
+            "r": 18,
+            "g": 2,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 15.2,
+        "g": 4.299999999999999,
+        "b": 0.3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/vegblur5.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 723,
+          "hex": "#221D00",
+          "srgb": {
+            "r": 34,
+            "g": 9,
+            "b": 0
+          }
+        },
+        {
+          "count": 590,
+          "hex": "#1D1900",
+          "srgb": {
+            "r": 29,
+            "g": 5,
+            "b": 0
+          }
+        },
+        {
+          "count": 550,
+          "hex": "#211C00",
+          "srgb": {
+            "r": 33,
+            "g": 8,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 37.199999999999996,
+        "g": 4,
+        "b": 2.9999999999999996
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/vegblur6.jpg",
+    "data": {
+      "mainColors": [
+        {
+          "count": 302,
+          "hex": "#2B250B",
+          "srgb": {
+            "r": 43,
+            "g": 1,
+            "b": 1
+          }
+        },
+        {
+          "count": 301,
+          "hex": "#221D00",
+          "srgb": {
+            "r": 34,
+            "g": 9,
+            "b": 0
+          }
+        },
+        {
+          "count": 288,
+          "hex": "#27210B",
+          "srgb": {
+            "r": 39,
+            "g": 1,
+            "b": 1
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 38.3,
+        "g": 3.9000000000000004,
+        "b": 3.0999999999999996
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/wall.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 17148,
+          "hex": "#301800",
+          "srgb": {
+            "r": 48,
+            "g": 4,
+            "b": 0
+          }
+        },
+        {
+          "count": 10243,
+          "hex": "#331900",
+          "srgb": {
+            "r": 51,
+            "g": 5,
+            "b": 0
+          }
+        },
+        {
+          "count": 9084,
+          "hex": "#311700",
+          "srgb": {
+            "r": 49,
+            "g": 3,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 45.3,
+        "g": 3.1,
+        "b": 0.2
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/wall2.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 8468,
+          "hex": "#90837B",
+          "srgb": {
+            "r": 144,
+            "g": 2,
+            "b": 3
+          }
+        },
+        {
+          "count": 8320,
+          "hex": "#8F827A",
+          "srgb": {
+            "r": 143,
+            "g": 2,
+            "b": 2
+          }
+        },
+        {
+          "count": 7413,
+          "hex": "#8E8179",
+          "srgb": {
+            "r": 142,
+            "g": 2,
+            "b": 1
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 143.3,
+        "g": 1.9,
+        "b": 3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/wall3.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 11775,
+          "hex": "#AC9A8C",
+          "srgb": {
+            "r": 172,
+            "g": 4,
+            "b": 0
+          }
+        },
+        {
+          "count": 10950,
+          "hex": "#AB998B",
+          "srgb": {
+            "r": 171,
+            "g": 3,
+            "b": 9
+          }
+        },
+        {
+          "count": 10820,
+          "hex": "#AD9B8D",
+          "srgb": {
+            "r": 173,
+            "g": 4,
+            "b": 1
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 171.7,
+        "g": 3.5999999999999996,
+        "b": 4.1
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/wall4.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 7375,
+          "hex": "#8B7E6B",
+          "srgb": {
+            "r": 139,
+            "g": 0,
+            "b": 7
+          }
+        },
+        {
+          "count": 7161,
+          "hex": "#8C7F6C",
+          "srgb": {
+            "r": 140,
+            "g": 0,
+            "b": 8
+          }
+        },
+        {
+          "count": 6753,
+          "hex": "#AC9B8B",
+          "srgb": {
+            "r": 172,
+            "g": 3,
+            "b": 9
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 148.5,
+        "g": 1,
+        "b": 6.5
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/water.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 19081,
+          "hex": "#22211F",
+          "srgb": {
+            "r": 34,
+            "g": 3,
+            "b": 1
+          }
+        },
+        {
+          "count": 18941,
+          "hex": "#21201E",
+          "srgb": {
+            "r": 33,
+            "g": 3,
+            "b": 0
+          }
+        },
+        {
+          "count": 18128,
+          "hex": "#232220",
+          "srgb": {
+            "r": 35,
+            "g": 3,
+            "b": 2
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 31.3,
+        "g": 2.5000000000000004,
+        "b": 3.9000000000000004
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/water2.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 35317,
+          "hex": "#1E1D19",
+          "srgb": {
+            "r": 30,
+            "g": 2,
+            "b": 5
+          }
+        },
+        {
+          "count": 33428,
+          "hex": "#1D1C18",
+          "srgb": {
+            "r": 29,
+            "g": 2,
+            "b": 4
+          }
+        },
+        {
+          "count": 32357,
+          "hex": "#1F1E1A",
+          "srgb": {
+            "r": 31,
+            "g": 2,
+            "b": 6
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 29.9,
+        "g": 1.9999999999999998,
+        "b": 5.2
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/water3.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1722,
+          "hex": "#302C20",
+          "srgb": {
+            "r": 48,
+            "g": 3,
+            "b": 2
+          }
+        },
+        {
+          "count": 1706,
+          "hex": "#2F2B1F",
+          "srgb": {
+            "r": 47,
+            "g": 3,
+            "b": 1
+          }
+        },
+        {
+          "count": 1643,
+          "hex": "#312D21",
+          "srgb": {
+            "r": 49,
+            "g": 3,
+            "b": 3
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 50.5,
+        "g": 2.9999999999999996,
+        "b": 2.5000000000000004
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/water4.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 8894,
+          "hex": "#25241F",
+          "srgb": {
+            "r": 37,
+            "g": 3,
+            "b": 1
+          }
+        },
+        {
+          "count": 8756,
+          "hex": "#28251E",
+          "srgb": {
+            "r": 40,
+            "g": 3,
+            "b": 0
+          }
+        },
+        {
+          "count": 8555,
+          "hex": "#27241D",
+          "srgb": {
+            "r": 39,
+            "g": 2,
+            "b": 9
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 38.9,
+        "g": 2.8,
+        "b": 2.7
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/water5.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 1815,
+          "hex": "#47412B",
+          "srgb": {
+            "r": 71,
+            "g": 4,
+            "b": 3
+          }
+        },
+        {
+          "count": 1813,
+          "hex": "#46402A",
+          "srgb": {
+            "r": 70,
+            "g": 4,
+            "b": 2
+          }
+        },
+        {
+          "count": 1740,
+          "hex": "#453F29",
+          "srgb": {
+            "r": 69,
+            "g": 4,
+            "b": 1
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 72.19999999999999,
+        "g": 3.9999999999999996,
+        "b": 2.3
+      }
+    }
+  },
+  {
+    "file": "src/assets/images/window.JPG",
+    "data": {
+      "mainColors": [
+        {
+          "count": 119117,
+          "hex": "#0A0A0C",
+          "srgb": {
+            "r": 10,
+            "g": 1,
+            "b": 2
+          }
+        },
+        {
+          "count": 107697,
+          "hex": "#0B0B0D",
+          "srgb": {
+            "r": 11,
+            "g": 1,
+            "b": 3
+          }
+        },
+        {
+          "count": 65215,
+          "hex": "#0A0A0A",
+          "srgb": {
+            "r": 10,
+            "g": 1,
+            "b": 0
+          }
+        }
+      ],
+      "averageColor": {
+        "r": 10.8,
+        "g": 1.8000000000000003,
+        "b": 3.2
+      }
+    }
+  }
+]
