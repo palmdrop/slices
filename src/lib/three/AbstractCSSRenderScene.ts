@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 
-import { CSS3DRenderer } from 'three/examples/jsm/renderers/CSS3DRenderer';
+import { CSS3DRenderer } from './examples/jsm/renderers/CSS3DRenderer';
 
 import { AnimationLoop, DataURLCallback, RenderScene, Resizer, VoidCallback } from './core';
 import { SimpleAnimationLoop } from './systems/AnimationLoop';

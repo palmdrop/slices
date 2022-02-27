@@ -5,5 +5,5 @@ import { ImageData } from '../analyzis/imageSpace';
 export type CreateSpace = (
   imageData: ImageData[],
   styles: Styles,
-  onHover ?: ( img: HTMLImageElement | null) => void
+  onInteraction ?: ( img: HTMLImageElement | null) => void
 ) => THREE.Object3D;

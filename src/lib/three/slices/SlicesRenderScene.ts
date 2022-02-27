@@ -1,18 +1,19 @@
 import * as THREE from 'three';
-import * as TWEEN from '@tweenjs/tween.js';
 
 import { AbstractCSSRenderScene } from "../AbstractCSSRenderScene";
 
-import { CSS3DObject } from "three/examples/jsm/renderers/CSS3DRenderer";
-import { TrackballControls } from 'three/examples/jsm/controls/TrackballControls';
+import { CSS3DObject } from "../examples/jsm/renderers/CSS3DRenderer";
 
-import { HueAnalyzer, SaturationAnalyzer } from './analyzis/imageSpace';
-import imageData from '../../../assets/images/data.json';
-import { BrightnessAnalyzer, orderImages } from './analyzis/imageSpace';
-import { stack, volume } from './structures/geometrical';
+import { HueAnalyzer, BrightnessAnalyzer, orderImages } from './analyzis/imageSpace';
+import imageData from '../../../data.json';
 import { Styles } from '$lib/dom/utils';
 import { createStackVolume } from './spaces/stackVolume';
 import { createGridVolume } from './spaces/gridVolume';
+
+const analyzers = [
+  HueAnalyzer,
+  BrightnessAnalyzer
+]
 
 const spaceCreators = [
   createStackVolume,
@@ -32,13 +33,11 @@ export class SlicesRenderScene extends AbstractCSSRenderScene {
   ) {
     super( domElement );
 
-    // this.controls = new TrackballControls( this.camera, domElement );
-
     const orderedImages = orderImages(
       imageData, 
-      // BrightnessAnalyzer
-      HueAnalyzer
-      // SaturationAnalyzer
+      analyzers[
+        Math.floor(Math.random() * analyzers.length)
+      ]
     );
 
     const spaceCreator = spaceCreators[
@@ -66,8 +65,6 @@ export class SlicesRenderScene extends AbstractCSSRenderScene {
   }
 
   update( delta: number, now: number ): void {
-    // this.controls.update();
-
     this.onUpdateCallback?.( this.domElement );
 
     this.object.rotation.x += this.rotationSpeed.x * delta;
@@ -80,7 +77,7 @@ export class SlicesRenderScene extends AbstractCSSRenderScene {
     position ?: THREE.Vector3,  
     scale ?: THREE.Vector3,  
   ) {
-    const object = new CSS3DObject( element );
+    const object = new CSS3DObject( element as any );
 
     position && object.position.copy( position );
     scale && object.scale.copy( scale );

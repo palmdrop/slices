@@ -1,12 +1,12 @@
 import * as THREE from 'three';
-import { CSS3DObject } from "three/examples/jsm/renderers/CSS3DRenderer";
+import { CSS3DObject } from "../../examples/jsm/renderers/CSS3DRenderer";
 import { volume } from '../structures/geometrical';
 import { CreateSpace } from "./space";
 
 export const createStackVolume: CreateSpace = (
   imageData,
   styles,
-  onHover
+  onInteraction
 ) => {
   const object = new THREE.Object3D();
 
@@ -24,12 +24,10 @@ export const createStackVolume: CreateSpace = (
     volumeGroup.children.forEach((child: CSS3DObject) => {
       const element = child.element as HTMLImageElement;
 
+      element.onclick = 
+      element.ontouchstart = 
       element.onmouseenter = () => {
-        onHover?.(element);
-      }
-
-      element.onmouseleave = () => {
-        onHover?.(null);
+        onInteraction?.(element);
       }
     })
 

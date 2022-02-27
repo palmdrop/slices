@@ -1,5 +1,5 @@
 import * as THREE from 'three';
-import { CSS3DRenderer } from 'three/examples/jsm/renderers/CSS3DRenderer';
+import { CSS3DRenderer } from '../examples/jsm/renderers/CSS3DRenderer';
 import type { ResizeCallback, Resizer } from '../core';
 
 export class SimpleResizer implements Resizer {

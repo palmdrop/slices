@@ -1,6 +1,6 @@
 [
   {
-    "file": "src/assets/images/animal.JPG",
+    "file": "images/animal.JPG",
     "data": {
       "mainColors": [
         {
@@ -39,7 +39,7 @@
     }
   },
   {
-    "file": "src/assets/images/blur1.jpg",
+    "file": "images/blur1.jpg",
     "data": {
       "mainColors": [
         {
@@ -78,7 +78,7 @@
     }
   },
   {
-    "file": "src/assets/images/blur2.jpg",
+    "file": "images/blur2.jpg",
     "data": {
       "mainColors": [
         {
@@ -117,7 +117,7 @@
     }
   },
   {
-    "file": "src/assets/images/blur3.jpg",
+    "file": "images/blur3.jpg",
     "data": {
       "mainColors": [
         {
@@ -156,7 +156,7 @@
     }
   },
   {
-    "file": "src/assets/images/build1.jpg",
+    "file": "images/build1.jpg",
     "data": {
       "mainColors": [
         {
@@ -195,7 +195,7 @@
     }
   },
   {
-    "file": "src/assets/images/building.jpg",
+    "file": "images/building.jpg",
     "data": {
       "mainColors": [
         {
@@ -234,7 +234,7 @@
     }
   },
   {
-    "file": "src/assets/images/bush1.jpg",
+    "file": "images/bush1.jpg",
     "data": {
       "mainColors": [
         {
@@ -273,7 +273,7 @@
     }
   },
   {
-    "file": "src/assets/images/bush2.jpg",
+    "file": "images/bush2.jpg",
     "data": {
       "mainColors": [
         {
@@ -312,7 +312,7 @@
     }
   },
   {
-    "file": "src/assets/images/bush3.JPG",
+    "file": "images/bush3.JPG",
     "data": {
       "mainColors": [
         {
@@ -351,7 +351,7 @@
     }
   },
   {
-    "file": "src/assets/images/canopy1.jpg",
+    "file": "images/canopy1.jpg",
     "data": {
       "mainColors": [
         {
@@ -390,7 +390,7 @@
     }
   },
   {
-    "file": "src/assets/images/canopy2.jpg",
+    "file": "images/canopy2.jpg",
     "data": {
       "mainColors": [
         {
@@ -429,7 +429,7 @@
     }
   },
   {
-    "file": "src/assets/images/canopy3.jpg",
+    "file": "images/canopy3.jpg",
     "data": {
       "mainColors": [
         {
@@ -468,7 +468,7 @@
     }
   },
   {
-    "file": "src/assets/images/canopy4.jpg",
+    "file": "images/canopy4.jpg",
     "data": {
       "mainColors": [
         {
@@ -507,7 +507,7 @@
     }
   },
   {
-    "file": "src/assets/images/cig1.jpg",
+    "file": "images/cig1.jpg",
     "data": {
       "mainColors": [
         {
@@ -546,7 +546,7 @@
     }
   },
   {
-    "file": "src/assets/images/cig2.jpg",
+    "file": "images/cig2.jpg",
     "data": {
       "mainColors": [
         {
@@ -585,7 +585,7 @@
     }
   },
   {
-    "file": "src/assets/images/cloud1.jpg",
+    "file": "images/cloud1.jpg",
     "data": {
       "mainColors": [
         {
@@ -624,7 +624,7 @@
     }
   },
   {
-    "file": "src/assets/images/cloud2.jpg",
+    "file": "images/cloud2.jpg",
     "data": {
       "mainColors": [
         {
@@ -663,7 +663,7 @@
     }
   },
   {
-    "file": "src/assets/images/cloud3.jpg",
+    "file": "images/cloud3.jpg",
     "data": {
       "mainColors": [
         {
@@ -702,7 +702,7 @@
     }
   },
   {
-    "file": "src/assets/images/cloud4.jpg",
+    "file": "images/cloud4.jpg",
     "data": {
       "mainColors": [
         {
@@ -741,7 +741,7 @@
     }
   },
   {
-    "file": "src/assets/images/concrete.JPG",
+    "file": "images/concrete.JPG",
     "data": {
       "mainColors": [
         {
@@ -780,7 +780,7 @@
     }
   },
   {
-    "file": "src/assets/images/crouch1.jpg",
+    "file": "images/crouch1.jpg",
     "data": {
       "mainColors": [
         {
@@ -819,7 +819,7 @@
     }
   },
   {
-    "file": "src/assets/images/flower1.JPG",
+    "file": "images/flower1.JPG",
     "data": {
       "mainColors": [
         {
@@ -858,7 +858,7 @@
     }
   },
   {
-    "file": "src/assets/images/flower2.JPG",
+    "file": "images/flower2.JPG",
     "data": {
       "mainColors": [
         {
@@ -897,7 +897,7 @@
     }
   },
   {
-    "file": "src/assets/images/flower3.JPG",
+    "file": "images/flower3.JPG",
     "data": {
       "mainColors": [
         {
@@ -936,7 +936,7 @@
     }
   },
   {
-    "file": "src/assets/images/flower4.JPG",
+    "file": "images/flower4.JPG",
     "data": {
       "mainColors": [
         {
@@ -975,7 +975,7 @@
     }
   },
   {
-    "file": "src/assets/images/flowers1.jpg",
+    "file": "images/flowers1.jpg",
     "data": {
       "mainColors": [
         {
@@ -1014,7 +1014,7 @@
     }
   },
   {
-    "file": "src/assets/images/flowers2.JPG",
+    "file": "images/flowers2.JPG",
     "data": {
       "mainColors": [
         {
@@ -1053,7 +1053,7 @@
     }
   },
   {
-    "file": "src/assets/images/flowers3.JPG",
+    "file": "images/flowers3.JPG",
     "data": {
       "mainColors": [
         {
@@ -1092,7 +1092,7 @@
     }
   },
   {
-    "file": "src/assets/images/ghost1.jpg",
+    "file": "images/ghost1.jpg",
     "data": {
       "mainColors": [
         {
@@ -1131,7 +1131,7 @@
     }
   },
   {
-    "file": "src/assets/images/ghost2.jpg",
+    "file": "images/ghost2.jpg",
     "data": {
       "mainColors": [
         {
@@ -1170,7 +1170,7 @@
     }
   },
   {
-    "file": "src/assets/images/ghost3.jpg",
+    "file": "images/ghost3.jpg",
     "data": {
       "mainColors": [
         {
@@ -1209,7 +1209,7 @@
     }
   },
   {
-    "file": "src/assets/images/ghost4.jpg",
+    "file": "images/ghost4.jpg",
     "data": {
       "mainColors": [
         {
@@ -1248,7 +1248,7 @@
     }
   },
   {
-    "file": "src/assets/images/ghost5.jpg",
+    "file": "images/ghost5.jpg",
     "data": {
       "mainColors": [
         {
@@ -1287,7 +1287,7 @@
     }
   },
   {
-    "file": "src/assets/images/ghost6.jpg",
+    "file": "images/ghost6.jpg",
     "data": {
       "mainColors": [
         {
@@ -1326,7 +1326,7 @@
     }
   },
   {
-    "file": "src/assets/images/ghost7.jpg",
+    "file": "images/ghost7.jpg",
     "data": {
       "mainColors": [
         {
@@ -1365,7 +1365,7 @@
     }
   },
   {
-    "file": "src/assets/images/ghost8.jpg",
+    "file": "images/ghost8.jpg",
     "data": {
       "mainColors": [
         {
@@ -1404,7 +1404,7 @@
     }
   },
   {
-    "file": "src/assets/images/ghost9.jpg",
+    "file": "images/ghost9.jpg",
     "data": {
       "mainColors": [
         {
@@ -1443,7 +1443,7 @@
     }
   },
   {
-    "file": "src/assets/images/globe.JPG",
+    "file": "images/globe.JPG",
     "data": {
       "mainColors": [
         {
@@ -1482,7 +1482,7 @@
     }
   },
   {
-    "file": "src/assets/images/grain1.jpg",
+    "file": "images/grain1.jpg",
     "data": {
       "mainColors": [
         {
@@ -1521,7 +1521,7 @@
     }
   },
   {
-    "file": "src/assets/images/grain2.jpg",
+    "file": "images/grain2.jpg",
     "data": {
       "mainColors": [
         {
@@ -1560,7 +1560,7 @@
     }
   },
   {
-    "file": "src/assets/images/grain3.jpg",
+    "file": "images/grain3.jpg",
     "data": {
       "mainColors": [
         {
@@ -1599,7 +1599,7 @@
     }
   },
   {
-    "file": "src/assets/images/grain4.jpg",
+    "file": "images/grain4.jpg",
     "data": {
       "mainColors": [
         {
@@ -1638,7 +1638,7 @@
     }
   },
   {
-    "file": "src/assets/images/grass.JPG",
+    "file": "images/grass.JPG",
     "data": {
       "mainColors": [
         {
@@ -1677,7 +1677,7 @@
     }
   },
   {
-    "file": "src/assets/images/grass2.jpg",
+    "file": "images/grass2.jpg",
     "data": {
       "mainColors": [
         {
@@ -1716,7 +1716,7 @@
     }
   },
   {
-    "file": "src/assets/images/grass3.jpg",
+    "file": "images/grass3.jpg",
     "data": {
       "mainColors": [
         {
@@ -1755,7 +1755,7 @@
     }
   },
   {
-    "file": "src/assets/images/grass4.jpg",
+    "file": "images/grass4.jpg",
     "data": {
       "mainColors": [
         {
@@ -1794,7 +1794,7 @@
     }
   },
   {
-    "file": "src/assets/images/leaves.JPG",
+    "file": "images/leaves.JPG",
     "data": {
       "mainColors": [
         {
@@ -1833,7 +1833,7 @@
     }
   },
   {
-    "file": "src/assets/images/plant.JPG",
+    "file": "images/plant.JPG",
     "data": {
       "mainColors": [
         {
@@ -1872,7 +1872,7 @@
     }
   },
   {
-    "file": "src/assets/images/pond1.jpg",
+    "file": "images/pond1.jpg",
     "data": {
       "mainColors": [
         {
@@ -1911,7 +1911,7 @@
     }
   },
   {
-    "file": "src/assets/images/pond2.jpg",
+    "file": "images/pond2.jpg",
     "data": {
       "mainColors": [
         {
@@ -1950,7 +1950,7 @@
     }
   },
   {
-    "file": "src/assets/images/pond3.jpg",
+    "file": "images/pond3.jpg",
     "data": {
       "mainColors": [
         {
@@ -1989,7 +1989,7 @@
     }
   },
   {
-    "file": "src/assets/images/pond4.jpg",
+    "file": "images/pond4.jpg",
     "data": {
       "mainColors": [
         {
@@ -2028,7 +2028,7 @@
     }
   },
   {
-    "file": "src/assets/images/pond5.jpg",
+    "file": "images/pond5.jpg",
     "data": {
       "mainColors": [
         {
@@ -2067,7 +2067,7 @@
     }
   },
   {
-    "file": "src/assets/images/rocks.JPG",
+    "file": "images/rocks.JPG",
     "data": {
       "mainColors": [
         {
@@ -2106,7 +2106,7 @@
     }
   },
   {
-    "file": "src/assets/images/roses1.jpg",
+    "file": "images/roses1.jpg",
     "data": {
       "mainColors": [
         {
@@ -2145,7 +2145,7 @@
     }
   },
   {
-    "file": "src/assets/images/roses2.jpg",
+    "file": "images/roses2.jpg",
     "data": {
       "mainColors": [
         {
@@ -2184,7 +2184,7 @@
     }
   },
   {
-    "file": "src/assets/images/roses3.jpg",
+    "file": "images/roses3.jpg",
     "data": {
       "mainColors": [
         {
@@ -2223,7 +2223,7 @@
     }
   },
   {
-    "file": "src/assets/images/skeleton1.jpg",
+    "file": "images/skeleton1.jpg",
     "data": {
       "mainColors": [
         {
@@ -2262,7 +2262,7 @@
     }
   },
   {
-    "file": "src/assets/images/skeleton2.jpg",
+    "file": "images/skeleton2.jpg",
     "data": {
       "mainColors": [
         {
@@ -2301,7 +2301,7 @@
     }
   },
   {
-    "file": "src/assets/images/sky.JPG",
+    "file": "images/sky.JPG",
     "data": {
       "mainColors": [
         {
@@ -2340,7 +2340,7 @@
     }
   },
   {
-    "file": "src/assets/images/sky1.JPG",
+    "file": "images/sky1.JPG",
     "data": {
       "mainColors": [
         {
@@ -2379,7 +2379,7 @@
     }
   },
   {
-    "file": "src/assets/images/sky2.JPG",
+    "file": "images/sky2.JPG",
     "data": {
       "mainColors": [
         {
@@ -2418,7 +2418,7 @@
     }
   },
   {
-    "file": "src/assets/images/smoke1.jpg",
+    "file": "images/smoke1.jpg",
     "data": {
       "mainColors": [
         {
@@ -2457,7 +2457,7 @@
     }
   },
   {
-    "file": "src/assets/images/smoke2.jpg",
+    "file": "images/smoke2.jpg",
     "data": {
       "mainColors": [
         {
@@ -2496,7 +2496,7 @@
     }
   },
   {
-    "file": "src/assets/images/spray1.jpg",
+    "file": "images/spray1.jpg",
     "data": {
       "mainColors": [
         {
@@ -2535,7 +2535,7 @@
     }
   },
   {
-    "file": "src/assets/images/star1.jpg",
+    "file": "images/star1.jpg",
     "data": {
       "mainColors": [
         {
@@ -2574,7 +2574,7 @@
     }
   },
   {
-    "file": "src/assets/images/star2.jpg",
+    "file": "images/star2.jpg",
     "data": {
       "mainColors": [
         {
@@ -2613,7 +2613,7 @@
     }
   },
   {
-    "file": "src/assets/images/star3.jpg",
+    "file": "images/star3.jpg",
     "data": {
       "mainColors": [
         {
@@ -2652,7 +2652,7 @@
     }
   },
   {
-    "file": "src/assets/images/tree1.jpg",
+    "file": "images/tree1.jpg",
     "data": {
       "mainColors": [
         {
@@ -2691,7 +2691,7 @@
     }
   },
   {
-    "file": "src/assets/images/tree2.jpg",
+    "file": "images/tree2.jpg",
     "data": {
       "mainColors": [
         {
@@ -2730,7 +2730,7 @@
     }
   },
   {
-    "file": "src/assets/images/vegblur.jpg",
+    "file": "images/vegblur.jpg",
     "data": {
       "mainColors": [
         {
@@ -2769,7 +2769,7 @@
     }
   },
   {
-    "file": "src/assets/images/vegblur2.jpg",
+    "file": "images/vegblur2.jpg",
     "data": {
       "mainColors": [
         {
@@ -2808,7 +2808,7 @@
     }
   },
   {
-    "file": "src/assets/images/vegblur3.jpg",
+    "file": "images/vegblur3.jpg",
     "data": {
       "mainColors": [
         {
@@ -2847,7 +2847,7 @@
     }
   },
   {
-    "file": "src/assets/images/vegblur4.jpg",
+    "file": "images/vegblur4.jpg",
     "data": {
       "mainColors": [
         {
@@ -2886,7 +2886,7 @@
     }
   },
   {
-    "file": "src/assets/images/vegblur5.jpg",
+    "file": "images/vegblur5.jpg",
     "data": {
       "mainColors": [
         {
@@ -2925,7 +2925,7 @@
     }
   },
   {
-    "file": "src/assets/images/vegblur6.jpg",
+    "file": "images/vegblur6.jpg",
     "data": {
       "mainColors": [
         {
@@ -2964,7 +2964,7 @@
     }
   },
   {
-    "file": "src/assets/images/wall.JPG",
+    "file": "images/wall.JPG",
     "data": {
       "mainColors": [
         {
@@ -3003,7 +3003,7 @@
     }
   },
   {
-    "file": "src/assets/images/wall2.JPG",
+    "file": "images/wall2.JPG",
     "data": {
       "mainColors": [
         {
@@ -3042,7 +3042,7 @@
     }
   },
   {
-    "file": "src/assets/images/wall3.JPG",
+    "file": "images/wall3.JPG",
     "data": {
       "mainColors": [
         {
@@ -3081,7 +3081,7 @@
     }
   },
   {
-    "file": "src/assets/images/wall4.JPG",
+    "file": "images/wall4.JPG",
     "data": {
       "mainColors": [
         {
@@ -3120,7 +3120,7 @@
     }
   },
   {
-    "file": "src/assets/images/water.JPG",
+    "file": "images/water.JPG",
     "data": {
       "mainColors": [
         {
@@ -3159,7 +3159,7 @@
     }
   },
   {
-    "file": "src/assets/images/water2.JPG",
+    "file": "images/water2.JPG",
     "data": {
       "mainColors": [
         {
@@ -3198,7 +3198,7 @@
     }
   },
   {
-    "file": "src/assets/images/water3.JPG",
+    "file": "images/water3.JPG",
     "data": {
       "mainColors": [
         {
@@ -3237,7 +3237,7 @@
     }
   },
   {
-    "file": "src/assets/images/water4.JPG",
+    "file": "images/water4.JPG",
     "data": {
       "mainColors": [
         {
@@ -3276,7 +3276,7 @@
     }
   },
   {
-    "file": "src/assets/images/water5.JPG",
+    "file": "images/water5.JPG",
     "data": {
       "mainColors": [
         {
@@ -3315,7 +3315,7 @@
     }
   },
   {
-    "file": "src/assets/images/window.JPG",
+    "file": "images/window.JPG",
     "data": {
       "mainColors": [
         {

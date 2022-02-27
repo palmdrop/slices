@@ -5,8 +5,10 @@ const path = require('path');
 const fs = require('fs');
 const { exec } = require("child_process");
 
-const IMAGE_ROOT_PATH = 'src/assets/images'
-const IMAGE_DATA_PATH = `../${ IMAGE_ROOT_PATH }/data.json`;
+
+const IMAGE_DIR = 'images';
+const IMAGE_ROOT_PATH = `static/${ IMAGE_DIR }`;
+const IMAGE_DATA_PATH = `../src/data.json`;
 const IMAGE_DIRECTORY = `../${ IMAGE_ROOT_PATH }`;
 
 const FILE_TYPE_REGEX = /\w+(.png|.jpg|.PNG|.JPG)\b/
@@ -62,10 +64,10 @@ const processImageData = (data) => {
 
 let imageCount = 0;
 const processImage = (file, numberOfImages) => new Promise((resolve, reject) => {
-  const filePath = `${ IMAGE_ROOT_PATH }/${ file }`;
+  const filePath = `${ IMAGE_DIR }/${ file }`;
   if (!FILE_TYPE_REGEX.test(file)) return resolve({
     status: 'invalid',
-    file: filePath,
+    file: "/" + filePath,
     error: 'Not a valid image file'
   });
 

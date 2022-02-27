@@ -23,7 +23,7 @@
   const images: HTMLImageElement[] = Array<HTMLImageElement>( 2 * rows );
 
   const focus = new BehaviorSubject<
-    ( { img: HTMLImageElement | null, index: number }) 
+    ( { img: HTMLImageElement, index: number }) 
     | null
   >( null );
 
@@ -90,7 +90,7 @@
 
     const onMouseMove$ = fromEvent(window, 'mousemove');
 
-    const delay = 2000;
+    const delay = 1300;
     onMouseMove$.pipe(
       throttle(() => interval(delay))
     ).subscribe(
@@ -127,7 +127,12 @@
   <div class="ui" class:visible={uiVisible}>
     <header>
       <h1>SLICES</h1>
-      <p><a href="https://palmdrop.site" target="_blank" rel="noreferrer">by palmdrop</a></p>
+      <p>
+        Vivid interfaces - viewing fragments
+      </p>
+      <p>by 
+        <a href="https://palmdrop.site" target="_blank" rel="noreferrer">palmdrop</a> 
+      </p>
     </header>
     <button on:click="{() => buildScene(sceneDomElement)}">
       OTHER SLICES
@@ -244,6 +249,10 @@
     text-align: center;
     padding-top: 0.3em;
     color: rgba(128, 128, 128, 0.5);
+
+    font-size: calc(
+      24px + 30 * ((100vw - 320px) / 680)
+    );
   }
 
   .interface button {
