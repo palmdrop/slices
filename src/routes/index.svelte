@@ -1,5 +1,5 @@
 <script lang="ts">
-  import { BehaviorSubject, fromEvent, debounce, interval } from 'rxjs';
+  import { BehaviorSubject, fromEvent, debounce, interval, merge, throttle, distinctUntilChanged } from 'rxjs';
 
   import { assignStyles, forEachChildRecursive } from "$lib/dom/utils";
   import { SlicesRenderScene } from "$lib/three/slices/SlicesRenderScene";
@@ -8,6 +8,7 @@
 
   let renderScene: SlicesRenderScene;
   let sceneDomElement: HTMLElement;
+  let uiVisible: boolean = true;
 
   const imageStyles = {
     objectFit: 'cover',
@@ -34,10 +35,6 @@
       imageStyles
     )
   })
-
-  const addElement = ( element : HTMLElement ) => {
-    renderScene.addElement( element );
-  }
 
   const buildScene = ( domElement : HTMLElement ) => {
     sceneDomElement = domElement;
@@ -78,9 +75,12 @@
 
     renderScene.start();
 
+    // Events
     const resizeHandler = () => {
       renderScene.resize( window.innerWidth, window.innerHeight );
     }
+
+    resizeHandler();
 
     fromEvent(window, 'resize').pipe(
       debounce(() => interval(30))
@@ -88,20 +88,19 @@
       () => resizeHandler()
     );
 
-    resizeHandler();
+    const onMouseMove$ = fromEvent(window, 'mousemove');
 
-    document.addEventListener('scroll', () => console.log("Scrolling!"))
-
-    forEachChildRecursive( domElement, element => {
-      if( element.style ) {
-        element.style.pointerEvents = 'auto';
-        element.style.userSelect = 'auto';
-      }
-
-      if( element.classList && element.classList.contains( 'scene' ) ) {
-        addElement( element );
-      }
-    })
+    const delay = 2000;
+    onMouseMove$.pipe(
+      throttle(() => interval(delay))
+    ).subscribe(
+      () => { uiVisible = true }
+    );
+    onMouseMove$.pipe(
+      debounce(() => interval(delay))
+    ).subscribe(
+      () => { uiVisible = false }
+    );
   }
 </script>
 
@@ -125,7 +124,7 @@
       </div>
     { /each }
   </div>
-  <div class="ui">
+  <div class="ui" class:visible={uiVisible}>
     <header>
       <h1>SLICES</h1>
       <p><a href="https://palmdrop.site" target="_blank" rel="noreferrer">by palmdrop</a></p>
@@ -209,6 +208,12 @@
     justify-content: space-between;
     width: 33%;
     height: 100%;
+    opacity: 0;
+    transition: 0.3s;
+  }
+
+  .interface .visible {
+    opacity: 1;
   }
 
   .interface header {

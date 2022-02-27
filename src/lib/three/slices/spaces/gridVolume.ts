@@ -20,11 +20,6 @@ export const createGridVolume: CreateSpace = (
   const layers = Math.floor(Math.random() * 6 + 1);
   const spacing = 550;
 
-  const box = new THREE.Box3(
-    new THREE.Vector3(),
-    new THREE.Vector3()
-  );
-
   for(let x = 0; x < columns; x++) for(let y = 0; y < rows; y++) for(let z = 0; z < layers; z++) {
     const volumeGroup = volume(
       Array(6).fill(imageData[(x * rows + y + offset) % imageData.length]) as any,
@@ -32,16 +27,9 @@ export const createGridVolume: CreateSpace = (
       styles
     );
 
-    /*
-    volumeGroup.position.x = x * spacing - columns * spacing / 3;
-    volumeGroup.position.y = y * spacing - rows * spacing / 3;
-    volumeGroup.position.z = z * spacing - layers * spacing / 3;
-    */
     volumeGroup.position.x = (x - (columns - 1) / 2.0) * spacing;
     volumeGroup.position.y = (y - (rows - 1) / 2.0) * spacing;
     volumeGroup.position.z = (z - (layers - 1) / 2.0) * spacing;
-
-    box.expandByPoint(volumeGroup.position);
 
     const componentNoise = ( x: number, y: number, z: number, frequency: number, min = -1.0, max = 1.0) => {
       return THREE.MathUtils.mapLinear(
@@ -82,8 +70,6 @@ export const createGridVolume: CreateSpace = (
 
     object.add( volumeGroup );
   }
-
-  console.log(box.min, box.max)
 
   object.position.set( 0, 0, -1000 );
 

@@ -15,7 +15,7 @@ export const createStackVolume: CreateSpace = (
   for(let i = 0; i < 10; i++) {
     const volumeGroup = volume(
       Array(6).fill(imageData[(i + offset) % imageData.length]) as any,
-      1000, 60, 1000,
+      1000, 50, 1000,
       styles
     );
 
