@@ -10,12 +10,6 @@ import { Styles } from '$lib/dom/utils';
 import { createStackVolume } from './spaces/stackVolume';
 import { createGridVolume } from './spaces/gridVolume';
 
-if(process.env.NODE_ENV === 'production') {
-  imageData.forEach(data => {
-    data.file = "slices/" + data.file;
-  })
-}
-
 const analyzers = [
   HueAnalyzer,
   BrightnessAnalyzer
