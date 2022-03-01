@@ -1,4 +1,4 @@
-import data from '../../../../assets/images/data.json';
+import data from '../../../../data.json';
 export type ImageData = typeof data[0];
 
 export type ImageScoreAnalyzer = (imageData: ImageData) => number;

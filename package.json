@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "svelte-kit dev --port 3001",
     "build": "svelte-kit build",
+    "deploy": "bash scripts/deploy",
     "package": "svelte-kit package",
     "preview": "svelte-kit preview --port 3002",
     "check": "svelte-check --tsconfig ./tsconfig.json",

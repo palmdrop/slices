@@ -1,0 +1,15 @@
+#!/bin/bash
+
+npm run build
+
+echo "Moving build to palmdrop.github.io/slices"
+rm -r ../../palmdrop.github.io/slices
+cp -r ./build ../../palmdrop.github.io/slices
+
+echo "Pushing changes"
+cd ../../palmdrop.github.io
+git add slices/
+git commit -m "Update slices"
+git push
+
+echo "Deployment done"

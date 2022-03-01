@@ -162,7 +162,7 @@
 
 <style>
   * {
-    cursor: url("/svg/cursor.svg") 16 16, auto;
+    cursor: url("/slices/svg/cursor.svg") 16 16, auto;
   }
 
   .interface {

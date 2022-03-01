@@ -8,6 +8,7 @@ const config = {
 	// for more information about preprocessors
 	preprocess: preprocess(),
 
+
 	kit: {
 		adapter: adapter({
 			pages: 'build',
@@ -16,7 +17,12 @@ const config = {
 		}),
 
 		// hydrate the <div id="svelte"> element in src/app.html
-		target: '#svelte'
+		target: '#svelte',
+		paths: {
+			base: process.env.NODE_ENV === 'production'
+				? '/slices'
+				: '/',
+		}
 	}
 };
 
