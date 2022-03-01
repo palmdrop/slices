@@ -12,14 +12,34 @@ export const createStackVolume: CreateSpace = (
 
   const offset = Math.floor(Math.random() * imageData.length);
 
-  for(let i = 0; i < 10; i++) {
+  const width = 1000;
+  const height = THREE.MathUtils.randInt( 50, 100 );
+  const depth = 1000;
+  const padding = height;
+
+  const layers = THREE.MathUtils.randInt( 5, 20 );
+
+  for(let i = 0; i < layers; i++) {
     const volumeGroup = volume(
       Array(6).fill(imageData[(i + offset) % imageData.length]) as any,
-      1000, 50, 1000,
+      width, height, depth,
       styles
     );
 
-    volumeGroup.position.y = 100 * i - 500;
+    // volumeGroup.position.y = 100 * i - 500;
+    volumeGroup.position.y = ( height + padding ) * i - layers * ( height + padding ) / 2.0;
+
+    volumeGroup.rotation.x += THREE.MathUtils.randFloatSpread(
+      i * i * 0.00025
+    );
+    volumeGroup.rotation.z += THREE.MathUtils.randFloatSpread(
+      i * i * 0.00025
+    );
+
+    volumeGroup.rotation.y += THREE.MathUtils.randFloatSpread(
+      i * i * 0.002
+    );
+
 
     volumeGroup.children.forEach((child: CSS3DObject) => {
       const element = child.element as HTMLImageElement;

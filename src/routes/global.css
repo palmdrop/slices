@@ -62,10 +62,6 @@ h5 {
   font-size: 150%;
 }
 
-.transfix {
-  border: 100px solid red;
-}
-
 @font-face{
   font-family: 'Samba';
   src: url('/static/fonts/Samba.ttf') format('truetype');

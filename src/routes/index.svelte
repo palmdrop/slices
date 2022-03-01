@@ -1,7 +1,7 @@
 <script lang="ts">
   import { BehaviorSubject, fromEvent, debounce, interval, merge, throttle, distinctUntilChanged } from 'rxjs';
 
-  import { assignStyles, forEachChildRecursive } from "$lib/dom/utils";
+  import { assignStyles } from "$lib/dom/utils";
   import { SlicesRenderScene } from "$lib/three/slices/SlicesRenderScene";
   import GrainOverlay from "$lib/components/atmosphere/GrainOverlay.svelte";
   import GridBackground from "$lib/components/atmosphere/GridBackground.svelte";
@@ -90,7 +90,7 @@
 
     const onMouseMove$ = fromEvent(window, 'mousemove');
 
-    const delay = 1300;
+    const delay = 1750;
     onMouseMove$.pipe(
       throttle(() => interval(delay))
     ).subscribe(
@@ -113,7 +113,7 @@
 <GrainOverlay />
 
 <!-- Interface -->
-<div class="interface">
+<div class="interface" class:visible={uiVisible}>
   <div class="column">
     { #each { length: rows } as _, r }
       <div class="cell">
@@ -124,7 +124,7 @@
       </div>
     { /each }
   </div>
-  <div class="ui" class:visible={uiVisible}>
+  <div class="ui">
     <header>
       <h1>SLICES</h1>
       <p>
@@ -160,6 +160,10 @@
 <GridBackground />
 
 <style>
+  * {
+    cursor: url("/svg/cursor.svg") 16 16, auto;
+  }
+
   .interface {
     position: fixed;
     pointer-events: all;
@@ -176,6 +180,8 @@
     pointer-events: none;
 
     font-family: 'Samba';
+    transition: 0.3s opacity;
+    opacity: 0;
   }
 
   .interface img {
@@ -213,12 +219,12 @@
     justify-content: space-between;
     width: 33%;
     height: 100%;
-    opacity: 0;
     transition: 0.3s;
   }
 
-  .interface .visible {
+  .visible {
     opacity: 1;
+    transition: 0.3s;
   }
 
   .interface header {
@@ -269,7 +275,6 @@
     margin: 10px 0px;
     padding: 0.3em;
 
-    cursor: pointer;
     pointer-events: auto;
     font-family: 'Samba';
   }
