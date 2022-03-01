@@ -105,7 +105,8 @@
 </script>
 
 <svelte:head>
-  <title>Slices</title>
+  <title>Slices ~ by palmdrop</title>
+  <meta name="description" content="Vivid interfaces - a series of fragments/slices. By palmdrop." />
   <html lang="en" />
 </svelte:head>
 
