@@ -1,4 +1,6 @@
 # Slices
+![Slices](.github/img.png)
+
 *Live at [palmdrop.github.io/slices](https://palmdrop.github.io/slices/)*
 
 Experimental interface for presenting a small photo project I've been working on.
