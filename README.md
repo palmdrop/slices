@@ -1,40 +1,10 @@
-# create-svelte
+# Slices
+*Live at [palmdrop.github.io/slices](https://palmdrop.github.io/slices/)*
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Experimental interface for presenting a small photo project I've been working on.
 
-## Creating a project
+Although built using Svelte and powered by three.js, every element on the screen has a corresponding DOM node and may be selected, copied, or saved.
 
-If you're seeing this, you've probably already done this step. Congrats!
+The goal was mainly aesthetical, but I also wanted to explore ways to present image fragments like those collected during my project.
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
-```
-
-> Note: the `@next` is temporary
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment.
+I've been taking photographs and extracting 1000x707px fragments where I deemed fit. I focused on areas with vivid colors, patterns, or details. I find these fragments visually engaging, especially when presented together. This small project allowed me to use these fragments, or slices, both as abstract swatches of color and texture (the 3D shapes) and as complete images, worthy of a closer look (the interface overlay).
