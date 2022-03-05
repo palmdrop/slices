@@ -7,8 +7,9 @@ import { CSS3DObject } from "../examples/jsm/renderers/CSS3DRenderer";
 import { HueAnalyzer, BrightnessAnalyzer, orderImages } from './analyzis/imageSpace';
 import imageData from '../../../data.json';
 import { Styles } from '$lib/dom/utils';
-import { createStackVolume } from './spaces/stackVolume';
-import { createGridVolume } from './spaces/gridVolume';
+import { createStack } from './spaces/stack';
+import { createGrid } from './spaces/grid';
+import { createSky } from './spaces/sky';
 
 const analyzers = [
   HueAnalyzer,
@@ -16,8 +17,9 @@ const analyzers = [
 ]
 
 const spaceCreators = [
-  createStackVolume,
-  createGridVolume
+  createStack,
+  createGrid,
+  createSky
 ];
 
 export class SlicesRenderScene extends AbstractCSSRenderScene {

@@ -6,7 +6,7 @@ import { makeNoise3D } from 'fast-simplex-noise';
 
 const noise3D = makeNoise3D(() => 1000 * Math.random());
 
-export const createGridVolume: CreateSpace = (
+export const createGrid: CreateSpace = (
   imageData,
   styles,
   onInteraction

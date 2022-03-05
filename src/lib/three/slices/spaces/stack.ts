@@ -3,7 +3,7 @@ import { CSS3DObject } from "../../examples/jsm/renderers/CSS3DRenderer";
 import { volume } from '../structures/geometrical';
 import { CreateSpace } from "./space";
 
-export const createStackVolume: CreateSpace = (
+export const createStack: CreateSpace = (
   imageData,
   styles,
   onInteraction
